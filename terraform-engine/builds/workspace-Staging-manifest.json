@@ -1,0 +1,9 @@
+{
+  "workspace_tier": "Staging",
+  "security_framework": "Enhanced",
+  "compliance_metrics": {
+    "audit_log_retention_days": 30,
+    "credential_auto_rotation": true
+  },
+  "generated_by": "Terraform Infrastructure Engine Automation"
+}
